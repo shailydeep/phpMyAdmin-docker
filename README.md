@@ -46,7 +46,7 @@ $docker build .
 and
 docker-compose file
 $docker-composer up -d
-now tale container ip by using the command
+now take container ip by using the command
 $docker container inspect ctr_id
 then hit the ip in brouwser
 now you can see phpmyadmin web page
